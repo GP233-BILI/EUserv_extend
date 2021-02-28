@@ -11,7 +11,7 @@ If you have any disputes about this repo, please contact me or send an Issue.
 
 Really thanks EUserv provide us free IPv6 VPS for learning.
 
-## How to Use
+## How to Use a
 
 1、Install Python3 and dependences
 
